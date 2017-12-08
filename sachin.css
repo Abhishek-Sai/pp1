@@ -1,0 +1,46 @@
+.top{
+	background-color: grey;
+	height:185px;
+	
+}
+.name{
+	padding-top: 30px;
+}
+
+.buttons{
+	padding-top: 70px;
+}
+.b1{
+	padding-top: 50px;
+}
+.b2{
+	padding-top: 50px;
+}
+.b3{
+	padding-top: 50px;
+}
+.b4{
+	padding-top: 50px;
+}
+
+.right{
+	background-color: yellow;
+	height:500px;
+}
+
+#one{
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+#two{
+	padding-bottom: 50px;
+}
+#three{
+	padding-bottom: 50px;
+}
+
+.pic{
+	padding-top: 0px;
+	background-color: lightgrey;
+}
+
